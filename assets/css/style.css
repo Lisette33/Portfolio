@@ -59,10 +59,13 @@ h3 {
     margin-left: auto;
     margin-right: auto;
 }
-
 .about-me p {
-    text-align: left;
+    text-align: center;
     padding-left: 315px;
+    font-size: 18px;
+}
+p {
+    text-align: left;
     font-size: 18px;
 }
 
