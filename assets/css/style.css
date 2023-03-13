@@ -43,8 +43,18 @@ body {
 }
 
 h2 {
-    text-align: center;
-    font-size: 27px;
+    text-align: left;
+    font-size: 28px;
+    display: inline-block;
+    /* padding: 0;
+    margin: 10px; */
+    width: 18%;  
+    padding: 26px;
+    position: relative;
+    left: 0;
+    bottom: 40px;
+    
+    /* font-size: 50px; */
 
 }
 
@@ -70,6 +80,7 @@ h3 {
     width: 50px;
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 p {
@@ -83,6 +94,34 @@ p {
     font-size: 18px;
 }
 
+.tab {
+    /* margin-left: 50px; */
+    /* width: 18%;   */
+    padding: 50px;
+    position: relative;
+    left: 20px;
+    bottom: 40px;
+}
+
+.tabOne {
+    padding: 50px;
+    position: relative;
+    left: 83px;
+    bottom: 122px; 
+}
+
+.tabTwo {
+    padding: 5px;
+    position: relative;
+    left: 127px;
+    bottom: 200px; 
+}
+.tabThree {
+    padding: 50px;
+    position: relative;
+    left: 82px;
+    bottom: 277px; 
+}
 ul {
     text-align: left;
     font-size: 19px;
@@ -92,14 +131,17 @@ ul {
     height: 93px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/top-background.jpg");
+    /* background-image: url("../images/top-background.jpg"); */
     background-size: cover;
     background-position: center;
+    background-color: #32a0d7;
 }
 
 #me-image {
     height: 125px;
     width: 9%;
+    margin: 1%;
+    
 }
 
 .float-left {
@@ -128,36 +170,39 @@ text-decoration: none;
 }
 
 .flex-box button {
-    width: 54%;   
-    padding: 100px;
-    background-image: url("../images/Project-1.jpg");
+    width: 25%;   
+    padding: 53px;
+    position: relative;
+    left:16px;
+    bottom: -20px;
+    background-image: url("../images/Project-4.jpg");
     font-size: 19px;
     color: white;
 }
 
 .flex-box2 button {
-    width: 18%;   
-    padding: 35px;
+    width: 25%;   
+    padding: 53px;
     position: relative;
-    left: 650px;
-    bottom: 200px;
-    background-image: url("../images/Project-2.jpg");
+    left:382px;
+    bottom: 132px;
+    background-image: url("../images/Project-1.jpg");
     font-size: 19px;
     color: white;
 }
 
 .flex-box3 button {
-    width: 18%;  
-    padding: 35px;
+    width: 25%;  
+    padding: 53px;
     position: relative;
-    left: 650px;
-    bottom: 190px;
+    left: 750px;
+    bottom: 285px;
     background-image: url("../images/Project-3.jpg");
     font-size: 19px;
     color: white;
 }
 
-.flex-box4 button {
+/* .flex-box4 button {
     width: 18%;  
     padding: 35px;
     position: relative;
@@ -166,9 +211,9 @@ text-decoration: none;
     background-image: url("../images/Project-4.jpg");
     font-size: 19px;
     color: white;
-}
+} */
 
-.flex-box5 button {
+/* .flex-box5 button {
     width: 18%;  
     padding: 35px;
     position: relative;
@@ -177,7 +222,7 @@ text-decoration: none;
     background-image: url("../images/Project-5.jpg");
     font-size: 19px;
     color: white;
-}
+} */
 
 .card {
     width: 100%;
@@ -201,32 +246,34 @@ text-decoration: none;
     padding: 25px;
     position: relative;
     right: 30px;
-    top: 65px;
+    left: -21px;
+    top: 55px;
+    bottom: 20px;
 }
 
 .card2 {
     width: 30%;  
     padding: 25px;
     position: relative;
-    left: 273px;
-    bottom: 7px;
+    left: 350px;
+    bottom: 40px;
 }
 
 .card3 {
     width: 30%;  
     padding: 25px;
     position: relative;
-    left: 410px;
-    bottom: 46px;
+    left: 775px;
+    bottom: 133px;
 }
 
-.card4 {
+/* .card4 {
     width: 30%;  
     padding: 25px;
     position: relative;
     left: 643px;
     top: -118px;
-}
+} */
 
 
 .card1 a {
