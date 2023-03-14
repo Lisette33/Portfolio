@@ -180,59 +180,70 @@ text-decoration: none;
 }
 
 .flex-box button {
-    width: 25%;   
-    padding: 53px;
+    width: 18%;   
+    padding: 43px;
     position: relative;
-    left:16px;
-    bottom: -20px;
+    left:19px;
+    bottom: -30px;
     background-image: url("../images/Project-4.jpg");
     font-size: 19px;
     color: white;
 }
 
 .flex-box2 button {
-    width: 25%;   
-    padding: 53px;
+    width: 18%;   
+    padding: 32px;
     position: relative;
-    left:382px;
-    bottom: 132px;
+    left:218px;
+    bottom: 103px;
     background-image: url("../images/Project-1.jpg");
     font-size: 19px;
     color: white;
 }
 
 .flex-box3 button {
-    width: 25%;  
-    padding: 53px;
+    width: 18%;  
+    padding: 32px;
     position: relative;
-    left: 750px;
-    bottom: 285px;
+    left: 417px;
+    bottom: 235px;
     background-image: url("../images/Project-3.jpg");
     font-size: 19px;
     color: white;
 }
 
 /* .flex-box4 button {
-    width: 18%;  
+    width: 21%;  
     padding: 35px;
     position: relative;
     left: 800px;
     bottom: 390px;
-    background-image: url("../images/Project-4.jpg");
+    background-image: url("../images/Project-6.jpg");
     font-size: 19px;
     color: white;
 } */
 
-/* .flex-box5 button {
-    width: 18%;  
-    padding: 35px;
+.flex-box5 button {
+    width: 18%;
+    padding: 32px;
     position: relative;
-    left: 800px;
-    bottom: 381px;
+    left: 615px;
+    bottom: 367px;
     background-image: url("../images/Project-5.jpg");
     font-size: 19px;
     color: white;
-} */
+}
+
+.flex-box6 button {
+    width: 18%;  
+    padding: 41.5px;
+    position: relative;
+    left: 813px;
+    bottom: 498px;
+    background-image: url("../images/Project-2.jpg");
+    font-size: 19px;
+    color: white;
+}
 
 .card {
     width: 100%;
@@ -265,7 +276,7 @@ text-decoration: none;
     width: 30%;  
     padding: 25px;
     position: relative;
-    left: 280px;
+    left: 219px;
     bottom: 44px;
 }
 
@@ -273,7 +284,7 @@ text-decoration: none;
     width: 30%;  
     padding: 25px;
     position: relative;
-    left: 670px;
+    left: 545px;
     bottom: 144px;
 }
 
@@ -281,10 +292,17 @@ text-decoration: none;
     width: 30%;  
     padding: 25px;
     position: relative;
-    left: 930px;
+    left: 740px;
     top: -244px;
 }
 
+.card5 {
+    width: 30%;  
+    padding: 25px;
+    position: relative;
+    left: 925px;
+    top: -345px;
+}
 
 .card1 a {
 color: black;
