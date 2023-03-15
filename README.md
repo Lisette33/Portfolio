@@ -1,28 +1,17 @@
-<img width="468" alt="Profolio_snapshot" src="https://user-images.githubusercontent.com/113862182/194203565-0d2a32df-6470-4169-b664-d0ee60e5c6bd.png">
-
 # Portfolio
 
-The portfolio represents skills and projects.
-
-# Name
-Portfolio
-
-## Author Name
-Lisette Morales
-
-## Deployment URL
-
-
-## Description
-The project represents my portfolio. It demonstrates an about me, projects, and contact information section. Overall, the portfolio represents my professional skills and web developement interest. 
-
+The portfolio represents my professional skills and projects.
 
 ## Author
 Lisette Morales
 
-## Acknowledgment
-I would like to thank those who provided their helpful guidance.
+## Deployment URL
+https://lisette33.github.io/Portfolio/ 
 
+## Description
+The portfolio demonstrates an about me, projects, and contact information section. Overall, the portfolio represents my professional skills and experience in Full-Stack Web Development. 
+
+<img width="468" alt="Porfolio1" src="https://user-images.githubusercontent.com/113862182/225346336-73f9eae3-52f5-4777-811c-3e41c43b3956.png">
 
 ## Project Guidelines stated as:
 
@@ -51,6 +40,9 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
+
+## Acknowledgment
+I would like to thank those who provided their helpful guidance.
 
 ## Licence
 MIT
