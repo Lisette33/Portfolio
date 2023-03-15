@@ -334,3 +334,39 @@ text-decoration: none;
 .footer p {
     font-size: 12px;
 }
+
+/* @media screen and (max-width: 768px) {
+    main,
+    nav {
+      flex-direction: column;
+    }
+  } */
+/* 
+  .ad-wrapper {
+    height: 0;
+    overflow: hidden;
+    transition: height 0.66s ease-out;
+  }
+  .ad-wrapper.loaded {
+    height: 100px;
+  } */
+
+  
+  @media screen
+{
+  body{
+      background-size: 0;
+  }
+}
+@media screen and (min-width: 645px)
+{
+  body{
+      background-size: 20%;
+  }
+}
+@media screen and (min-width: 960px)
+{
+  body{
+      background-size: auto;
+  }
+}
