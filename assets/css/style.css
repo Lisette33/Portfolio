@@ -184,7 +184,7 @@ text-decoration: none;
     padding: 43px;
     position: relative;
     left:19px;
-    bottom: -20px;
+    bottom: -10px;
     background-image: url("../images/Project-4.jpg");
     font-size: 19px;
     color: white;
@@ -192,7 +192,7 @@ text-decoration: none;
 
 .flex-box2 button {
     width: 18%;   
-    padding: 32px;
+    padding: 40px;
     position: relative;
     left:218px;
     bottom: 103px;
